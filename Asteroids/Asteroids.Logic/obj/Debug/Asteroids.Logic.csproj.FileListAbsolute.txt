@@ -1,0 +1,5 @@
+C:\Users\ceci\Documents\Visual Studio 2015\Projects\Asteroids\Asteroids.Logic\bin\Debug\Asteroids.Logic.dll
+C:\Users\ceci\Documents\Visual Studio 2015\Projects\Asteroids\Asteroids.Logic\bin\Debug\Asteroids.Logic.pdb
+C:\Users\ceci\Documents\Visual Studio 2015\Projects\Asteroids\Asteroids.Logic\obj\Debug\Asteroids.Logic.dll
+C:\Users\ceci\Documents\Visual Studio 2015\Projects\Asteroids\Asteroids.Logic\obj\Debug\Asteroids.Logic.pdb
+C:\Users\ceci\Documents\Visual Studio 2015\Projects\Asteroids\Asteroids.Logic\obj\Debug\Asteroids.Logic.csprojResolveAssemblyReference.cache

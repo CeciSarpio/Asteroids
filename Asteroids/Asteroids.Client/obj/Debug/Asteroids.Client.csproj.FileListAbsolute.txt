@@ -1,0 +1,8 @@
+c:\users\ceci\documents\visual studio 2015\Projects\Asteroids\Asteroids.Client\bin\Debug\Asteroids.Client.exe.config
+c:\users\ceci\documents\visual studio 2015\Projects\Asteroids\Asteroids.Client\bin\Debug\Asteroids.Client.exe
+c:\users\ceci\documents\visual studio 2015\Projects\Asteroids\Asteroids.Client\bin\Debug\Asteroids.Client.pdb
+c:\users\ceci\documents\visual studio 2015\Projects\Asteroids\Asteroids.Client\bin\Debug\Asteroids.Logic.pdb
+c:\users\ceci\documents\visual studio 2015\Projects\Asteroids\Asteroids.Client\obj\Debug\Asteroids.Client.csprojResolveAssemblyReference.cache
+c:\users\ceci\documents\visual studio 2015\Projects\Asteroids\Asteroids.Client\obj\Debug\Asteroids.Client.exe
+c:\users\ceci\documents\visual studio 2015\Projects\Asteroids\Asteroids.Client\obj\Debug\Asteroids.Client.pdb
+C:\Users\ceci\Documents\Visual Studio 2015\Projects\Asteroids\Asteroids.Client\bin\Debug\Asteroids.Logic.dll
